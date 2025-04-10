@@ -1,4 +1,4 @@
-# blr-water-log
+# Telangana-Water-Log
 
 An interactive tool to explore water accumulation patterns around Bangalore, India.
 
