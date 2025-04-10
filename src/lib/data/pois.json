@@ -1,0 +1,203 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Old City",
+          "date": "Oct 19, 2020",
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/a-choked-gurram-cheruvu-leaves-old-city-flooded/article32887896.ece"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.433, 17.385]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Old City",
+          "date": "Oct 19, 2020",
+          "url": "https://telanganatoday.com/hyderabads-old-city-flooded-yet-again"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.433, 17.385]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Old City",
+          "date": "Oct 20, 2020",
+          "url": "https://www.thehansindia.com/news/cities/hyderabad/hyderabad-gurram-cheruvu-breach-triggers-flood-of-woes-652074"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.433, 17.385]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Madhapur",
+          "date": "Oct 11, 2017",
+          "url": "https://www.newindianexpress.com/hyderabad/2017/Oct/11/traffic-thrown-out-of-gear-in-madhapur-techies-bear-the-brunt-1670596.html"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.393, 17.448]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Madhapur",
+          "date": "Oct 19, 2020",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-flash-floods-damage-to-hundreds-of-homes/articleshow/78656057.cms"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.456, 17.440]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gachibowli",
+          "date": "Sep 2, 2024",
+          "url": "https://telanganatoday.com/hyderabad-drenched-after-overnight-downpour-gachibowli-records-97-mm-of-rainfall"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.395, 17.410]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Anjaiah Nagar",
+          "date": "June 14, 2021",
+          "url": "https://www.thehansindia.com/news/cities/hyderabad/secunderabad-flood-fear-stalks-dwellers-near-hasmathpet-lake-690729"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.490, 17.470]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kukatpally",
+          "date": "Sep 1, 2024",
+          "url": "https://www.deccanchronicle.com/videos/kukatpally-roads-were-flooded-following-heavy-rains-in-hyderabad-1820660"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.500, 17.450]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "LB Nagar",
+          "date": "Jul 16, 2021",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/2020-rerun-hyd-wakes-up-to-deluge-many-streets-sink/articleshow/84458414.cms"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.570, 17.430]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Begumpet",
+          "date": "Nov 8, 2020",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/begumpet-residents-flood-ready-plan-fails/articleshow/79105817.cms"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.465, 17.387]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Somajiguda",
+          "date": "Aug 16, 2024",
+          "url": "https://timesofindia.indiatimes.com/city/hyderabad/imd-issues-yellow-alert-for-next-2-days-in-hyderabad/articleshow/112553832.cms"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.430, 17.417]
+        }
+      },
+
+
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Musi River (Central Hyderabad)",
+          "date": "Sep 28, 1908",
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/watch-remembering-the-destructive-hyderabad-flood-of-september-1908/article68817255.ece"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.450, 17.380]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Yousufguda",
+          "date": "July 21, 2023",
+          "url": "https://www.thehindu.com/news/national/telangana/heavy-rain-floods-city-roads-creates-traffic-mayhem/article67102423.ece"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.427, 17.438]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masab Tank",
+          "date": "Aug 20, 2024",
+          "url": "https://www.deccanchronicle.com/southern-states/telangana/heavy-rainfall-drenches-hyderabad-following-early-morning-cloudburst-1817655"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.450, 17.400]
+        }
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ameerpet",
+          "date": "Aug 31, 2024",
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/non-stop-rain-causes-water-stagnation-and-traffic-disruption-in-hyderabad/article68590479.ece"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.447, 17.421]
+        }
+      },
+
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lingampally",
+          "date": "May 19, 2024",
+          "url": "https://www.thehindu.com/news/national/telangana/an-hours-rain-floods-the-city-creates-mayhem/article68190809.ece"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.315, 17.493]
+        }
+      }
+  
+    ]
+  }
+  
